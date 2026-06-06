@@ -1,0 +1,12 @@
+﻿fastapi
+uvicorn[standard]
+ortools
+networkx
+sqlalchemy
+redis
+cryptography
+python-dotenv
+pydantic-settings
+sentence-transformers
+transformers
+torch
